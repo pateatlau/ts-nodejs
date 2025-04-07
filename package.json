@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/lodash": "^4.17.16",
     "@types/mongoose": "^5.11.96",
     "@types/node": "^22.14.0",
     "dotenv": "^16.4.7",
@@ -24,6 +25,7 @@
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^5.1.0",
+    "lodash": "^4.17.21",
     "mongoose": "^8.13.2"
   }
 }
